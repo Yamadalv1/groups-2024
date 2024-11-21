@@ -9,12 +9,12 @@ Fork this repository to your account, clone your fork locally, and edit `./confi
 ```yaml
 # existing groups...
 
-- name: "My really creative group name"
+- name: "SSH - Grocery ordering squad"
   members:
-    - "2xxxxx0"
-    - "2xxxxx1"
-    - "2xxxxx2"
-    - "2xxxxx3"
+    - "2570552"
+    - "2865723"
+    - "2490722"
+    - "2470856"
 ```
 
 Replace `2xxxxxx` with your own student ID and those of the others in your group. Once you have finished editing the file, stage the changes, commit them, and push the changes to your clone of the repository. Then create a pull request against this repository.
